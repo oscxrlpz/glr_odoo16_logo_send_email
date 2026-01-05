@@ -1,0 +1,1 @@
+# glr_odoo16_logo_send_email
